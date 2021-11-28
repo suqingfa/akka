@@ -1,3 +1,4 @@
 rootProject.name = 'akka'
 
 include 'actor'
+include 'typedactor'
