@@ -1,5 +1,5 @@
 dependencies {
-    implementation 'com.typesafe.akka:akka-actor-typed_2.13:2.6.17'
+    implementation 'com.typesafe.akka:akka-actor-typed_2.13:2.6.18'
 
-    testImplementation 'com.typesafe.akka:akka-actor-testkit-typed_2.13:2.6.17'
+    testImplementation 'com.typesafe.akka:akka-actor-testkit-typed_2.13:2.6.18'
 }
